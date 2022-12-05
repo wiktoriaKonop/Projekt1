@@ -1,0 +1,6 @@
+Temat: Szkółka drzew i krzewów
+Program będzie skupiał się na ustaleniu wydatków związanych ze sprzedażą roślin. W pliku1 będzie znajdować się zamówienie klienta, 
+w pliku2 liczba dostępnych roślin na magazynie. Program dokona wyceny zamówienia, biorąc pod uwagę różne zmienne np. cenę poszczególnego gatunku roślin lub pewnego 
+rodzaju algorytm, taki jak: gdy na magazynie zostanie tylko 10 sztuk produktu, klient otrzyma rabat 10%, gdy 20 rabat 20% itp.. Gdy produkt będzie niedostępny
+wypisze komunikat.Dodatkowo w koszty uwzględnieni zostaną pracownicy, przy czym tutaj też mogą się pojawić różne przypadki np. gdy na magazynie jest 100 sztuk, 
+trzeba zatrudnić kolejnego pracownika. 
